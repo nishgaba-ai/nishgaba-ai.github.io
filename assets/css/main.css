@@ -1136,3 +1136,11 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 .custom-class-1 {
   padding-bottom: 15px;
 }
+
+.custom-class-1 
+{ 
+  margin: 10px 22px;
+  padding: 3px 5px;
+  position: relative;
+  color: #666;
+}
